@@ -1,6 +1,6 @@
 # **Digitalna Buducnost - Company Portfolio Website**
 
-A clean and modern **portfolio website** for showcasing the company's services and projects. Built using **HTML**, **CSS**, **Bootstrap and **JavaScript**.
+A clean and modern **portfolio website** for showcasing the company's services and projects. Built using **HTML**, **CSS**, **Bootstrap** and **JavaScript**.
 
 ---
 
